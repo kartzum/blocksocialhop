@@ -1,0 +1,9 @@
+#block_social_hop_container {
+  padding: 15px 10px;
+  float: left;
+  width: 175px;
+}
+  
+#block_social_hop_container li {
+  padding-left:26px !important;
+}
